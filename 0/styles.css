@@ -1,0 +1,17 @@
+.main-title{
+    text-align: center;
+}
+
+.header{
+    background: lightblue;
+    height: 50px;
+}
+
+.main{
+    background: lightseagreen;
+    height: 600px;
+    }
+.footer{
+    background: lightsalmon;
+    height: 200px;
+}

@@ -1,0 +1,12 @@
+.img-box{
+    width: 90%;
+    margin-top: 2em auto;
+
+
+}
+
+.img{
+    border: 5px solid lightcoral;
+    outline: 5px solid lightcoral;
+    outline-offset: -45px;
+}
